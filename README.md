@@ -9,7 +9,7 @@ La riga #2 del file csv definisce un prezzo forfettario, anche questo da definir
 
 Cancellare questa riga se non necessaria.
 
-*Questo repository ha un branch per ogni versione(data di inizio validità della lista) del file messo a disposizione da SDA. Il branch master punta sempre all'ultima versione disponibile.*
+*Questo repository ha un branch per ogni versione (data di inizio validità della lista) del file messo a disposizione da SDA. Il branch master punta sempre all'ultima versione disponibile.*
 
 ###Configurazione regola spedizone gratuita
 
